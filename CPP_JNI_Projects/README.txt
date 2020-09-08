@@ -1,0 +1,1 @@
+This is just a simple Java Native Interface program. The C++ file acts to speed up the processing speed of a program and the Java file acts as a method of avoiding memory allocation errors. 
